@@ -1,2 +1,1 @@
-# zmap
-Zabbix URLS for the map
+# Zabbix URLS for the map
